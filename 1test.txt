@@ -1,0 +1,3 @@
+ project_id: asdfasdfasdfasdfasdf
+  private_key_id: "a8dbasdfasdf0a4d35425f8"
+  private_key: -----BEGIN PRIVATE KEY-----MIIDAOIZJDOIaoziasdfasdfasdfasdfasdfasdfasdfzijdoiajzdj876-----END PRIVATE KEY-----
